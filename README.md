@@ -1,4 +1,4 @@
-<img src="./code-solid-full.svg" alt="Ícone de código do Font Awesome" width="150px" align="right">
+<img src="./code-solid-full.svg" alt="Ícone de código do Font Awesome" width="200px" align="right">
 
 <div align="left">
 
